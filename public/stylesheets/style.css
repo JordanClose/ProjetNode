@@ -1,0 +1,17 @@
+.thumbnail img {
+    max-height: 150px;
+}
+.thumbnail .description{
+    color: #696969;
+    min-height: 65px;
+}
+.price{
+    font-weight: bold;
+    font-size: 16px;
+}
+.navbar-default{
+    background-color: #d3d3d3;
+}
+body{
+    background-color: dimgrey;
+}
